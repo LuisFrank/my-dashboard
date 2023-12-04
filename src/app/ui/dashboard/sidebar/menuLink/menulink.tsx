@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 
 
 
-export default function MenuLink({item}) {
+export default function MenuLink({item} : any) {
 
     const pathname = usePathname()
 
