@@ -30,10 +30,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Dependencias 
 
-#### 1.Iconos react
+#### 1.Iconos react - https://react-icons.github.io/react-icons/
 npm install react-icons --save
-#### 2 Chart (graficos)
-npm install recharts@2.9.0
+#### 2 Chart (graficos) - https://recharts.org/en-US/
+npm install recharts@2.10.3
 
 
 
